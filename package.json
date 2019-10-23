@@ -1,0 +1,15 @@
+{
+  "name": "ktoldy_package",
+  "version": "1.0.0",
+  "description": "Ultra super duper mega projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+	"start": "node ./src/index.js"
+  },
+  "author": "Kristian Toldy",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
